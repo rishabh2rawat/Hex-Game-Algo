@@ -8,3 +8,6 @@ It is traditionally played on an 11×11 rhombus board, although 13×13 and 19×1
 
 
 
+![hex game](https://user-images.githubusercontent.com/20839643/99888176-c059c500-2c70-11eb-8fa1-ffc7b53552d3.jpg)
+![download](https://user-images.githubusercontent.com/20839643/99888276-9785ff80-2c71-11eb-984e-1183baa0f5dd.jpg)
+![download](https://user-images.githubusercontent.com/20839643/99888277-98b72c80-2c71-11eb-98f3-76f3a6976512.png)
